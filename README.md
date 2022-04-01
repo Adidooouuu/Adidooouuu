@@ -1,16 +1,52 @@
-### Hi there 👋
+#:sparkles: Welcome to my world !
 
-<!--
-**Adidooouuu/Adidooouuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	##:question: Who am I
 
-Here are some ideas to get you started:
+		- :woman: "Adidou"
+		- :birthday: Under 25
+		- :womens: Her/She
+		- :fr: French living in France
+		- :mortar_board: Web dev' student
+		- :briefcase: Dream jobs
+			- :iphone: Mobile app dev' (pure Android or native apps)
+			- :computer: Web dev' (*fullstack* or *backend*)
+			- :thought_balloon: Something else ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	##:cupid: Interests
+
+		- :pencil2: Drawing
+		- :notes: Music
+		- :computer: Programing
+		- :books: Reading
+		- :ru: Russian language (not fluent at all for now ... someday maybe ?)
+
+	##:woman_technologist: About coding ...
+
+		###:school_satchel: Things I've partly learned during my classes
+			- HTML
+			- CSS
+			- JS
+			- PHP
+			- SQL
+			- Java
+			- WordPress
+			- Symfony
+			- Android Studio
+			- Docker
+			- Wamp-PHPMyAdmin
+			
+			:warning: I'm not a professional at all, I need to practice a lot more in order to progress.
+		 
+		###:heart_eyes: Things I wanna learn someday
+			- Python
+			- C++
+			- Electron.JS
+			- ReactJS
+			- React Native
+			- Node.JS
+			
+			:muscle: I don't know all techs available, so I'll take every opportunity to enhance my skills !
+		
+	## Projects I am beginning (and techs I think I'll be using
+		***incoming update***
+		

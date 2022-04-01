@@ -8,7 +8,7 @@
 - :fr: French living in France
 - :mortar_board: Web dev' student
 - :briefcase: Dream jobs
-	- :iphone: Mobile app dev' (pure Android or native apps)
+	- :iphone: Mobile app dev' (pure Android or hybrid apps)
 	- :computer: Web dev' (*fullstack* or *backend*)
 	- :thought_balloon: Something else ?
 

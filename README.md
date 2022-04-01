@@ -1,6 +1,6 @@
-#:sparkles:Welcome to my world !
+#Welcome to my world ! :sparkles:
 
-##:question:Who am I
+##Who am I :question:
 
 - :woman: "Adidou"
 - :birthday: Under 25
@@ -12,17 +12,16 @@
 	- :computer: Web dev' (*fullstack* or *backend*)
 	- :thought_balloon: Something else ?
 
-##:cupid:Interests
-
+##Interests :cupid:
 - :pencil2: Drawing
 - :notes: Music
 - :computer: Programing
 - :books: Reading
 - :ru: Russian language (not fluent at all for now ... someday maybe ?)
 
-##:woman_technologist: About coding ...
+##About coding ... :woman_technologist:
 
-###:school_satchel:Things I've partly learned during my classes
+###Things I've partly learned during my classes :school_satchel:
 - HTML
 - CSS
 - JS
@@ -35,9 +34,9 @@
 - Docker
 - Wamp-PHPMyAdmin
 
-:warning: I'm not a professional at all, I need to practice a lot more in order to progress.
+:warning: I'm not a professional at all, I need to practice a lot more in order to progress. :warning:
 
-###:heart_eyes:Things I wanna learn someday
+###Things I wanna learn someday :heart_eyes:
 - Python
 - C++
 - Electron.JS
@@ -45,7 +44,7 @@
 - React Native
 - Node.JS
 
-:muscle: I don't know all techs available, so I'll take every opportunity to enhance my skills !
+I don't know all techs available, so I'll take every opportunity to enhance my skills ! :muscle:
 
 ##Projects I am beginning (and techs I think I'll be using)
 ***incoming update***

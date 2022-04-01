@@ -5,7 +5,7 @@
 - :woman: Adé
 - :birthday: Under 25
 - :womens: Her/She
-- :fr: French living in France (Rhone-Alpes & Burgundy)
+- :fr: French, living in France (Rhone-Alpes & Burgundy)
 - :mortar_board: Web dev' student
 - :briefcase: Dream jobs
 	- :iphone: Mobile app dev' (pure Android or hybrid apps)

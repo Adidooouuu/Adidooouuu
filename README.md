@@ -2,7 +2,7 @@
 
 ## Who am I :question:
 
-- :woman: "Adidou"
+- :woman: Adé
 - :birthday: Under 25
 - :womens: Her/She
 - :fr: French living in France

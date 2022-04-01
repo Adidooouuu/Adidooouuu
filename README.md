@@ -23,30 +23,30 @@
 ##:woman_technologist: About coding ...
 
 ###:school_satchel:Things I've partly learned during my classes
-	- HTML
-	- CSS
-	- JS
-	- PHP
-	- SQL
-	- Java
-	- WordPress
-	- Symfony
-	- Android Studio
-	- Docker
-	- Wamp-PHPMyAdmin
+- HTML
+- CSS
+- JS
+- PHP
+- SQL
+- Java
+- WordPress
+- Symfony
+- Android Studio
+- Docker
+- Wamp-PHPMyAdmin
 
-	:warning: I'm not a professional at all, I need to practice a lot more in order to progress.
+:warning: I'm not a professional at all, I need to practice a lot more in order to progress.
 
 ###:heart_eyes:Things I wanna learn someday
-	- Python
-	- C++
-	- Electron.JS
-	- ReactJS
-	- React Native
-	- Node.JS
+- Python
+- C++
+- Electron.JS
+- ReactJS
+- React Native
+- Node.JS
 
-	:muscle: I don't know all techs available, so I'll take every opportunity to enhance my skills !
+:muscle: I don't know all techs available, so I'll take every opportunity to enhance my skills !
 
-##Projects I am beginning (and techs I think I'll be using
+##Projects I am beginning (and techs I think I'll be using)
 ***incoming update***
 

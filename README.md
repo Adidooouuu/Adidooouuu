@@ -36,7 +36,8 @@
 
 :warning: I'm not a professional at all, I need to practice a lot more in order to progress. :warning:
 
-### Things I wanna learn someday :heart_eyes:
+### Things I wanna learn someday (or go back to) :heart_eyes:
+- p5.js
 - Python
 - C++
 - Electron.JS

@@ -48,5 +48,5 @@ I don't know all techs available, so I'll take every opportunity to enhance my s
 
 ## Projects I'm working on (and techs I think I'll be using)
 - Website summarizing my internship
-- - Docker
-- - Symfony
+-- Docker
+-- Symfony

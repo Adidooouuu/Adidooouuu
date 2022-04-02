@@ -44,9 +44,9 @@
 - React Native
 - Node.JS
 
-I don't know all techs available, so I'll take every opportunity to enhance my skills ! :muscle:
+:muscle: I don't know all techs available, so I'll take every opportunity to enhance my skills ! :muscle:
 
 ## Projects I'm working on (and techs I think I'll be using)
-- Website summarizing my internship
+- [Website summarizing my internship](https://github.com/Adidooouuu/chef_d-oeuvre)
 	- Docker
 	- Symfony

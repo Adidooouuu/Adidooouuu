@@ -53,3 +53,7 @@
 - Website summarizing my internship
 	- Docker
 	- Symfony
+	
+- Web plateform to stock links
+	- HTML/CSS/JS
+	- PHP/MySQL

@@ -40,10 +40,12 @@
 - p5.js
 - Python
 - C++
+- Bash
 - Electron.JS
 - ReactJS
 - React Native
 - Node.JS
+- Others ?
 
 :muscle: I don't know all techs available, so I'll take every opportunity to enhance my skills ! :muscle:
 

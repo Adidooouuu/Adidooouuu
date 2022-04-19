@@ -1,4 +1,4 @@
-![Cover](https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif)
+![Cover](https://github.com/Adidooouuu/Adidooouuu/blob/main/img/shooting-stars.gif)
 
 # Welcome to my world ! :sparkles:
 

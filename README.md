@@ -1,8 +1,6 @@
 # Welcome to my world ! :sparkles:
 
-<div id="header" align="center">
-  <img src="https://tenor.com/view/etchebest-philippe-lets-go-cest-parti-on-y-va-gif-23743270" width="250"/>
-</div>
+<img src="https://github.com/Adidooouuu/Adidooouuu/img/etchebest-philippe.gif"></img>
 
 ## Who am I :question:
 

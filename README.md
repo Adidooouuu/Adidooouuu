@@ -1,4 +1,4 @@
-![Cover](https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif | width=250)
+![Cover](https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif)
 
 # Welcome to my world ! :sparkles:
 

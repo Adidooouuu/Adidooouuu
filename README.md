@@ -8,7 +8,7 @@
 
 <div align="center">
 	<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="250" align="left"/>
-	<ul>
+	<ul align="right">
 		<li>:woman: Adé</li>
 		<li>:birthday: Under 25</li>
 		<li>:womens: Her/She</li>

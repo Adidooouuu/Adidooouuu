@@ -4,6 +4,8 @@
 
 # Welcome to my world ! :sparkles:
 
+<h1 align="center">Welcome to my world ! :sparkles:</h1>
+
 ## Who am I :question:
 <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="250" align="left"/>
 

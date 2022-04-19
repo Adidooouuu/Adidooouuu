@@ -4,7 +4,7 @@
 
 # Welcome to my world ! :sparkles:
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="250"/>
 </div>
 

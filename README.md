@@ -13,7 +13,7 @@
 - :womens: Her/She
 - :fr: French, living in France (Rhone-Alpes & Burgundy)
 - :mortar_board: Web dev' student
-- :briefcase: Dream jobs </ul>
+- :briefcase: Dream jobs
 	- :iphone: Mobile app dev' (pure Android or hybrid apps)
 	- :computer: Web dev' (*fullstack* or *backend*)
 	- :thought_balloon: Something else ?

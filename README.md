@@ -6,6 +6,7 @@
 
 ## Who am I :question:
 <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="250" align="left"/>
+<br clear="left"/>
 
 - :woman: Adé
 - :birthday: Under 25
@@ -16,6 +17,7 @@
 	- :iphone: Mobile app dev' (pure Android or hybrid apps)
 	- :computer: Web dev' (*fullstack* or *backend*)
 	- :thought_balloon: Something else ?
+<br clear="left"/>
 
 ## Interests :cupid:
 - :pencil2: Drawing

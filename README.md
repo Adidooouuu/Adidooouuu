@@ -52,7 +52,7 @@
 ## Projects I'm working on (and techs I think I'll be using)
 - Website summarizing my internship
 	- Docker
-	- Symfony
+	- HTML, CSS, JS, PHP, MySQL
 	
 - Desktop plateform to stock links
 	- Flutter

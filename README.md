@@ -1,7 +1,6 @@
 # Welcome to my world ! :sparkles:
 
-![Eh bah on va pouvoir y aller hein, ok ?](https://github.com/Adidooouuu/Adidooouuu/main/img/etchebest-philippe.gif)
-![Idem mais en ligne](https://tenor.com/bLMR8.gif)
+![Eh bah on va pouvoir y aller hein, ok ?](https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif)
 
 ## Who am I :question:
 

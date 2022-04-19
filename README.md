@@ -1,5 +1,9 @@
 # Welcome to my world ! :sparkles:
 
+<div id="header" align="center">
+  <img src="https://tenor.com/view/cauchemar-en-cuisine-etchebest-philippe-etchebest-cest-qui-le-patron-who-is-boss-gif-14026071" width="100"/>
+</div>
+
 ## Who am I :question:
 
 - :woman: Adé

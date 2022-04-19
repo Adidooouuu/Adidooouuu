@@ -1,6 +1,8 @@
 # Welcome to my world ! :sparkles:
 
-![Eh bah on va pouvoir y aller hein, ok ?](https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif)
+<div align="center">
+	![Eh bah on va pouvoir y aller hein, ok ?](https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif | width=200)
+</div>
 
 ## Who am I :question:
 

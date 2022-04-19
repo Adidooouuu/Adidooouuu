@@ -1,8 +1,10 @@
-![Cover](https://github.com/Adidooouuu/Adidooouuu/blob/main/img/shooting-stars.gif)
+<div id="header" align="center">
+  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/shooting-stars.gif" width="100%" height="auto"/>
+</div>
 
 # Welcome to my world ! :sparkles:
 
-<div id="header" align="center">
+<div align="center">
   <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="250"/>
 </div>
 

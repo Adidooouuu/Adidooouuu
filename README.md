@@ -2,22 +2,26 @@
   <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/shooting-stars.gif" width="100%" height="auto"/>
 </div>
 
-# Welcome to my world ! :sparkles:
-
 <h1 align="center">Welcome to my world ! :sparkles:</h1>
 
 ## Who am I :question:
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="250" align="left"/>
 
-- :woman: Adé
-- :birthday: Under 25
-- :womens: Her/She
-- :fr: French, living in France (Rhone-Alpes & Burgundy)
-- :mortar_board: Web dev' student
-- :briefcase: Dream jobs
-	- :iphone: Mobile app dev' (pure Android or hybrid apps)
-	- :computer: Web dev' (*fullstack* or *backend*)
-	- :thought_balloon: Something else ?
+<div align="center">
+	<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="250" align="left"/>
+	<ul>
+		<li>:woman: Adé</li>
+		<li>:birthday: Under 25</li>
+		<li>:womens: Her/She</li>
+		<li>:fr: French, living in France (Rhone-Alpes & Burgundy)</li>
+		<li>:mortar_board: Web dev' student</li>
+		<li>:briefcase: Dream jobs</li>
+		<ul>
+			<li>:iphone: Mobile app dev' (pure Android or hybrid apps)</li>
+			<li>:computer: Web dev' (*fullstack* or *backend*)</li>
+			<li>:thought_balloon: Something else ?</li>
+		</ul>
+	</ul>
+</div>
 
 <br clear="left"/>
 

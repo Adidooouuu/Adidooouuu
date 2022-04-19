@@ -54,6 +54,6 @@
 	- Docker
 	- Symfony
 	
-- Web plateform to stock links
-	- HTML/CSS/JS
+- Desktop plateform to stock links
+	- Flutter
 	- PHP/MySQL

@@ -19,6 +19,8 @@
 	- :computer: Web dev' (*fullstack* or *backend*)
 	- :thought_balloon: Something else ?
 
+<br clear="left"/>
+
 ## Interests :cupid:
 - :pencil2: Drawing
 - :notes: Music

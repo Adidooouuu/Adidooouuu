@@ -1,6 +1,6 @@
 # Welcome to my world ! :sparkles:
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/master/img/etchebest-philippe.gif"></img>
+<img src="https://github.com/Adidooouuu/Adidooouuu/main/img/etchebest-philippe.gif"></img>
 
 ## Who am I :question:
 

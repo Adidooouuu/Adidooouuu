@@ -1,10 +1,8 @@
 # Welcome to my world ! :sparkles:
 
 <div align="center">
-  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="200"/>
+  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="250"/>
 </div>
-
-![Eh bah on va pouvoir y aller hein, ok ?](https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif | width=200)
 
 ## Who am I :question:
 

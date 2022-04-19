@@ -1,6 +1,8 @@
+![Cover](https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif | width=250)
+
 # Welcome to my world ! :sparkles:
 
-<div align="center">
+<div id="header" align="center">
   <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="250"/>
 </div>
 

@@ -59,7 +59,10 @@
 
 <br clear="left"/>
 
-:warning: I'm not a professional at all, I need to practice a lot more in order to progress. :warning:
+<div align="center">
+	:warning: I'm not a professional at all, I need to practice a lot more in order to progress. :warning:
+</div>
+<br clear="center"/>
 
 ### Things I wanna learn someday (or go back to) :heart_eyes:
 
@@ -77,7 +80,10 @@
 
 <br clear="left"/>
 
-:muscle: I don't know all techs available, so I'll take every opportunity to enhance my skills ! :muscle:
+<div align="center">
+	:muscle: I don't know all techs available, so I'll take every opportunity to enhance my skills ! :muscle:
+</div>
+<br clear="center"/>
 
 ## Projects I'm working on (and techs I think I'll be using)
 

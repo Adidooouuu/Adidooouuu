@@ -87,7 +87,7 @@
 
 ## Projects I'm working on (and techs I think I'll be using)
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-plein-la-vue.gif" width="300" height="200" align="left"/>
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-plein-la-vue.gif" width="350" height="200" align="left"/>
 
 ### Website summarizing my internship
 - Docker

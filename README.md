@@ -66,7 +66,7 @@
 
 ### Things I wanna learn someday (or go back to) :heart_eyes:
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe-pleurer.gif" width="300" height="300" align="left"/>
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe-pleurer.gif" width="310" height="300" align="left"/>
 
 - p5.js
 - Python

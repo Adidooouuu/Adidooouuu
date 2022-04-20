@@ -29,7 +29,7 @@
 
 ## Interests :cupid:
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-connais-pas.gif" width="300" height="300" align="left"/>
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-connais-pas.gif" width="300" height="300" align="right"/>
 
 - :pencil2: Drawing
 - :notes: Music
@@ -37,7 +37,7 @@
 - :books: Reading
 - :ru: Russian language (not fluent at all for now ... someday maybe ?)
 
-<br clear="left"/>
+<br clear="right"/>
 
 ## About coding ... :woman_technologist:
 
@@ -66,7 +66,7 @@
 
 ### Things I wanna learn someday (or go back to) :heart_eyes:
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe-pleurer.gif" width="310" height="300" align="left"/>
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe-pleurer.gif" width="310" height="300" align="right"/>
 
 - p5.js
 - Python
@@ -78,7 +78,7 @@
 - Node.JS
 - Others ?
 
-<br clear="left"/>
+<br clear="right"/>
 
 <div align="center">
 	:muscle: I don't know all techs available, so I'll take every opportunity to enhance my skills ! :muscle:

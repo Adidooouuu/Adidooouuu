@@ -43,7 +43,7 @@
 
 ### Things I've partly learned during my classes :school_satchel:
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-jsuis-impressionné.gif" width="300" height="300" align="left"/>
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-jsuis-impressionné.gif" width="250" height="300" align="left"/>
 
 - HTML
 - CSS
@@ -81,7 +81,7 @@
 
 ## Projects I'm working on (and techs I think I'll be using)
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-plein-la-vue.gif" width="200" height="300" align="left"/>
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-plein-la-vue.gif" width="300" height="200" align="left"/>
 
 ### Website summarizing my internship
 - Docker

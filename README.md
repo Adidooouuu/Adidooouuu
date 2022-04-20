@@ -8,15 +8,22 @@
 
 <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="250" align="left"/>
 
-- :woman: Adé
-- :birthday: Under 25
-- :womens: Her/She
-- :fr: French, living in France (Rhone-Alpes & Burgundy)
-- :mortar_board: Web dev' student
-- :briefcase: Dream jobs
-	- :iphone: Mobile app dev' (pure Android or hybrid apps)
-	- :computer: Web dev' (*fullstack* or *backend*)
-	- :thought_balloon: Something else ?
+<ul>
+	<li>:woman: Adé</li>
+	<li>:birthday: Under 25</li>
+	<li>:womens: Her/She</li>
+	<li>:fr: French, living in France (Rhone-Alpes & Burgundy)</li>
+	<li>:mortar_board: Web dev' student</li>
+</ul>
+
+### Dream jobs :briefcase:
+
+<ul>
+	<li>:iphone: Mobile app dev' (pure Android or hybrid apps)</li>
+	<li>:globe_with_meridians: Web dev' (*fullstack* or *backend*)</li>
+	<li>:computer: Desktop dev'</li>
+	<li>:thought_balloon: Something else ?</li>
+</ul>
 
 <br clear="left"/>
 

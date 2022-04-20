@@ -6,9 +6,10 @@
 
 ## Who am I :question:
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="300" height="auto" align="left"/>
+<div align="center">
+	<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe.gif" width="300" height="300" align="left"/>
 
-<ul>
+<ul align="left">
 	<li>:woman: Adé</li>
 	<li>:birthday: Under 25</li>
 	<li>:womens: Her/She</li>
@@ -18,7 +19,7 @@
 
 ### Dream jobs :briefcase:
 
-<ul>
+<ul align="left">
 	<li>:iphone: Mobile app dev' (pure Android or hybrid apps)</li>
 	<li>:globe_with_meridians: Web dev' (*fullstack* or *backend*)</li>
 	<li>:computer: Desktop dev'</li>
@@ -26,6 +27,7 @@
 </ul>
 
 <br clear="left"/>
+</div>
 
 ## Interests :cupid:
 - :pencil2: Drawing

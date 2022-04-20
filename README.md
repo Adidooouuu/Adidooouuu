@@ -43,7 +43,7 @@
 
 ### Things I've partly learned during my classes :school_satchel:
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-jsuis-impressione.gif" width="300" height="300" align="left"/>
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-jsuis-impressionné.gif" width="300" height="300" align="left"/>
 
 - HTML
 - CSS
@@ -58,7 +58,6 @@
 - Wamp-PHPMyAdmin
 
 <br clear="left"/>
-
 
 :warning: I'm not a professional at all, I need to practice a lot more in order to progress. :warning:
 
@@ -82,7 +81,7 @@
 
 ## Projects I'm working on (and techs I think I'll be using)
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-plein-la-vue.gif" width="300" height="300" align="left"/>
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-plein-la-vue.gif" width="200" height="300" align="left"/>
 
 ### Website summarizing my internship
 - Docker
@@ -93,7 +92,8 @@
 - PHP/MySQL
 
 <br clear="left"/>
+<br>
 
 <div id="footer" align="center">
-  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-un-grand-merci-a-vous.gif" width="100%" height="auto"/>
+  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-un-grand-merci-a-vous.gif" width="35%" height="auto"/>
 </div>

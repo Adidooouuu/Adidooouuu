@@ -43,7 +43,7 @@
 
 ### Things I've partly learned during my classes :school_satchel:
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-jsuis-impressionné.gif" width="250" height="300" align="left"/>
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-jsuis-impressionné.gif" width="250" height="300" align="right"/>
 
 - HTML
 - CSS
@@ -57,7 +57,7 @@
 - Docker
 - Wamp-PHPMyAdmin
 
-<br clear="left"/>
+<br clear="right"/>
 
 <div align="center">
 	:warning: I'm not a professional at all, I need to practice a lot more in order to progress. :warning:

@@ -72,6 +72,7 @@
 - Python
 - C++
 - Bash
+- Flutter
 - Electron.JS
 - ReactJS
 - React Native

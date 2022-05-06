@@ -102,5 +102,6 @@
 <br>
 
 <div id="footer" align="center">
+	<p align="center">See you later~ :sparkles:</p>
   <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-un-grand-merci-a-vous.gif" width="35%" height="auto"/>
 </div>

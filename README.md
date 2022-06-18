@@ -94,7 +94,7 @@
 - Docker
 - HTML, CSS, JS, PHP, MySQL
 	
-### Desktop plateform to stock links
+### Desktop plateform to stock links (standby)
 - Flutter
 - PHP/MySQL
 

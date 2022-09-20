@@ -13,7 +13,7 @@
 	<li>:birthday: Under 25</li>
 	<li>:womens: Her/She</li>
 	<li>:fr: French, living in France (Rhone-Alpes & Burgundy)</li>
-	<li>:mortar_board: Web dev' student</li>
+	<li>:mortar_board: Web dev' graduated</li>
 </ul>
 
 ### Dream jobs :briefcase:
@@ -29,7 +29,7 @@
 
 ## Interests :cupid:
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-connais-pas.gif" width="300" height="300" align="right"/>
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-connais.gif" width="300" height="300" align="right"/>
 
 - :pencil2: Drawing
 - :notes: Music
@@ -103,5 +103,5 @@
 
 <div id="footer" align="center">
 	<p align="center">See you later~ :sparkles:</p>
-  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-un-grand-merci-a-vous.gif" width="35%" height="auto"/>
+  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-un-grand-merci-vous.gif" width="35%" height="auto"/>
 </div>

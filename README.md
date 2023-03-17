@@ -11,7 +11,7 @@
 <ul>
 	<li>:woman: Adé</li>
 	<li>:birthday: Under 25</li>
-	<li>:womens: Her/She</li>
+	<li>:womens: She/Her</li>
 	<li>:fr: French, living in France (Rhone-Alpes & Burgundy)</li>
 	<li>:mortar_board: Web dev' graduated</li>
 </ul>
@@ -19,9 +19,9 @@
 ### Dream jobs :briefcase:
 
 <ul>
-	<li>:iphone: Mobile app dev' (pure Android or hybrid apps)</li>
-	<li>:globe_with_meridians: Web dev' (fullstack or backend) </li>
+	<li>:iphone: Mobile app dev'</li>
 	<li>:computer: Desktop dev'</li>
+	<li>:globe_with_meridians: Web dev' (fullstack or backend) </li>
 	<li>:thought_balloon: Something else ?</li>
 </ul>
 
@@ -45,11 +45,8 @@
 
 <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-jsuis-impressionné.gif" width="250" height="300" align="right"/>
 
-- HTML
-- CSS
-- JS
-- PHP
-- SQL
+- HTML / CSS / JS
+- PHP / SQL
 - Java
 - WordPress
 - Symfony
@@ -90,13 +87,9 @@
 
 <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-plein-la-vue.gif" width="350" height="200" align="left"/>
 
-### Website summarizing my internship
-- Docker
-- HTML, CSS, JS, PHP, MySQL
-	
-### Desktop plateform to stock links (standby)
-- Flutter
-- PHP/MySQL
+### Android app - TicTacToe / Connect4
+- Java
+- Android Studio
 
 <br clear="left"/>
 <br>

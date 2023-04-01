@@ -41,7 +41,7 @@
 
 ## About coding ... :woman_technologist:
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-jsuis-impressionné.gif" width="300" height="350" align="right"/>
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-jsuis-impressionné.gif" width="300" height="375" align="right"/>
 
 ### Things I've partly learned during my classes or internships :school_satchel:
 

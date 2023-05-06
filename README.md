@@ -11,7 +11,7 @@
 ## Who am I :question:
 
 <ul>
-	<li>:woman: Adé</li>
+	<li>:woman: Adidou</li>
 	<li>:birthday: Under 25</li>
 	<li>:womens: She/Her</li>
 	<li>:fr: French, living in France (Rhone-Alpes & Burgundy)</li>

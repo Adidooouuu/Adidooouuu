@@ -38,6 +38,7 @@
 </ul>
 
 <br clear="right"/>
+
 _As long as I dev, to be honest I don't mind the job title. I just want to dev. And some coffee._
 
 ## About coding ... :woman_technologist:

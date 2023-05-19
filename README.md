@@ -85,7 +85,7 @@ _As long as I dev, to be honest I don't mind the job title. I just want to dev. 
 - PHP
 
 Used for bulk deletion of DNS Records on a given zone.
-Requires a "config.php" file to the project's root, where you put your Account ID, Zone ID, and API Token with "all zones - DNS - modify" authorization (readme doc in french, will be translated on v2).
+Requires a "config.php" file to the project's root, where you put your Account ID, Zone ID, and API Token with "all zones - DNS - modify" authorization (readme doc in french, will be translated on v2). Run it, and acknowledge the magic happening right in front of your eyes.
 
 <br clear="right"/>
 <br>

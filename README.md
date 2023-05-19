@@ -16,6 +16,7 @@
 	<li>:womens: She/Her</li>
 	<li>:fr: French, living in France (Rhone-Alpes & Burgundy)</li>
 	<li>:mortar_board: Web dev' graduated</li>
+	<li>:coffee: Co(de|ffee) enjoyer</li>
 </ul>
 
 <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-connais-pas.gif" width="300" height="300" align="right"/>
@@ -56,8 +57,6 @@ _As long as I dev, to be honest I don't mind the job title. I just want to dev. 
 - Docker
 - Wamp-PHPMyAdmin
 
-
-:warning: I'm not a professional at all, I need to practice a lot more in order to progress. :warning:
 <br>
 <br clear="right"/>
 <br>

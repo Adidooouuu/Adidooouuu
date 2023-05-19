@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/coffee-coffee-time.gif" width="100%" height="auto"/>
+  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/coffee-coffee-time.gif" width="75%" height="auto"/>
 </div>
 
 <h1 align="center">Welcome to my world ! :sparkles:</h1>
@@ -67,11 +67,10 @@ _As long as I dev, to be honest I don't mind the job title. I just want to dev. 
 
 - Bash
 - ReactJS / p5.js
-- C ++ / Python
+- C# / C ++ / Python
 - Electron.JS / Flutter / React Native
 - Others ?
 
-:muscle: I don't know all techs available, so I'll take every opportunity to enhance my skills ! :muscle:
 <br>
 <br clear="right"/>
 <br>
@@ -99,5 +98,5 @@ Requires a "config.php" file to the project's root, where you put your Account I
 
 <div id="footer" align="center">
 	<p>See you later~ :sparkles:</p>
-  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-un-grand-merci-a-vous.gif" width="33%" height="auto"/>
+  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-un-grand-merci-a-vous.gif" width="350" height="auto"/>
 </div>

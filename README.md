@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/shooting-stars.gif" width="100%" height="auto"/>
+  <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/coffee-coffee-time.gif" width="100%" height="auto"/>
 </div>
 
 <h1 align="center">Welcome to my world ! :sparkles:</h1>

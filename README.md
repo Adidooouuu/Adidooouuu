@@ -31,13 +31,14 @@
 ## Dream jobs :briefcase:
 
 <ul>
-	<li>:iphone: Mobile app dev'</li>
 	<li>:computer: Desktop dev'</li>
+	<li>:iphone: Mobile app dev'</li>
 	<li>:globe_with_meridians: Web dev' (fullstack or backend) </li>
 	<li>:thought_balloon: Something else ?</li>
 </ul>
 
 <br clear="right"/>
+_As long as I dev, to be honest I don't mind the job title. I just want to dev. And some coffee._
 
 ## About coding ... :woman_technologist:
 
@@ -78,14 +79,24 @@
 
 <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-plein-la-vue.gif" width="300" height="175" align="right"/>
 
-### Android app - TicTacToe / Connect4
-- Java
-- Android Studio
+### [bulkDeleteDNSRecords-Cloudflare](https://github.com/Adidooouuu/bulkDeleteDNSRecords-Cloudflare)
+- Cloudflare API
+- PHP
+
+Used for bulk deletion of DNS Records on a given zone.
+Requires a "config.php" file to the project's root, where you put your Account ID, Zone ID, and API Token with "all zones - DNS - modify" authorization (readme doc in french, will be translated on v2).
 
 <br clear="right"/>
 <br>
 
+<h2 align="center"> Hard working, as you see ... (truth or joke, depends on the day~)</h2>
+<div id="stats" align="center">
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=Adidooouuu&theme=jolly&hide_border=true&card_width=350"/>
+</div>
+
+<br>
+
 <div id="footer" align="center">
-	<p align="center">See you later~ :sparkles:</p>
+	<p>See you later~ :sparkles:</p>
   <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-un-grand-merci-a-vous.gif" width="33%" height="auto"/>
 </div>

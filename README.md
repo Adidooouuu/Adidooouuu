@@ -88,13 +88,6 @@ Requires a "config.php" file to the project's root, where you put your Account I
 <br clear="right"/>
 <br>
 
-<h2 align="center"> Hard working, as you see ... (truth or joke, depends on the day~)</h2>
-<div id="stats" align="center">
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=Adidooouuu&theme=jolly&hide_border=true&card_width=350"/>
-</div>
-
-<br>
-
 <div id="footer" align="center">
 	<p>See you later~ :sparkles:</p>
   <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-un-grand-merci-a-vous.gif" width="350" height="auto"/>

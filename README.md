@@ -92,7 +92,7 @@ Requires a "config.php" file to the project's root, where you put your Account I
 <div id="stats" align="center">
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=Adidooouuu&theme=jolly&hide_border=true&card_width=350"/>
 </div>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adidooouuu)](https://git.io/streak-stats)
 <br>
 
 <div id="footer" align="center">

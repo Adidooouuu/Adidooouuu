@@ -76,14 +76,23 @@ _As long as I dev, to be honest I don't mind the job title. I just want to dev. 
 
 ## Projects I'm working on (and techs I think I'll be using)
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-plein-la-vue.gif" width="300" height="175" align="right"/>
-
 ### [bulkDeleteDNSRecords-Cloudflare](https://github.com/Adidooouuu/bulkDeleteDNSRecords-Cloudflare)
 - Cloudflare API
 - PHP
 
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-plein-la-vue.gif" width="300" height="175" align="right"/>
+
 Used for bulk deletion of DNS Records on a given zone.
 Requires a "config.php" file to the project's root, where you put your Account ID, Zone ID, and API Token with "all zones - DNS - modify" authorization (readme doc in french, will be translated on v2). Run it, and acknowledge the magic happening right in front of your eyes.
+
+### [spaceForGroupingAndManagingDomains](https://github.com/Adidooouuu/spaceForGroupingAndManagingDomains)
+First posibility :
+- Front : HTML, CSS, JS
+- Back : PHP
+- Data : MySQL
+- API : Cloudflare (cURL)
+
+Other ideas : front : Astro, or back : Slim, or API calls in JS if working with Astro, etc ...
 
 <br clear="right"/>
 <br>

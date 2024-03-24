@@ -14,8 +14,8 @@
 	<li>:woman: Adidou</li>
 	<li>:birthday: Under 25</li>
 	<li>:womens: She/Her</li>
-	<li>:fr: French, living in France (Rhone-Alpes & Burgundy)</li>
-	<li>:mortar_board: Web dev' graduated</li>
+	<li>:fr: French, living in Rhone-Alpes - France</li>
+	<li>:mortar_board: App Conception and Development apprentice since october 2023</li>
 	<li>:coffee: Co(de|ffee) enjoyer</li>
 </ul>
 
@@ -32,8 +32,8 @@
 ## Dream jobs :briefcase:
 
 <ul>
-	<li>:computer: Desktop dev'</li>
 	<li>:iphone: Mobile app dev'</li>
+	<li>:computer: Desktop dev'</li>
 	<li>:globe_with_meridians: Web dev' (fullstack or backend) </li>
 	<li>:thought_balloon: Something else ?</li>
 </ul>
@@ -57,6 +57,13 @@ _As long as I dev, to be honest I don't mind the job title. I just want to dev. 
 - Docker
 - Wamp-PHPMyAdmin
 
+### Things I'm learning during my current apprenticeship :school_satchel:
+
+- Android app development
+- Kotlin
+- Jetpack Compose
+- Room DB
+
 <br>
 <br clear="right"/>
 <br>
@@ -66,7 +73,7 @@ _As long as I dev, to be honest I don't mind the job title. I just want to dev. 
 
 - Bash
 - ReactJS / p5.js
-- C# / C ++ / Python
+- C# / Python
 - Electron.JS / Flutter / React Native
 - Others ?
 

@@ -15,7 +15,7 @@
 	<li>:birthday: Under 25</li>
 	<li>:womens: She/Her</li>
 	<li>:fr: French, living in Rhone-Alpes - France</li>
-	<li>:mortar_board: App Conception and Development apprentice since october 2023</li>
+	<li>:mortar_board: App Design and Development apprentice since october 2023</li>
 	<li>:coffee: Co(de|ffee) enjoyer</li>
 </ul>
 

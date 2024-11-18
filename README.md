@@ -47,7 +47,7 @@ _As long as I dev, to be honest I don't mind the job title. I just want to dev. 
 
 <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-jsuis-impressionné.gif" width="300" height="375" align="right"/>
 
-### Things I've partly learned during my classes or internships :school_satchel:
+### Things I partly learned during my courses or internships :school_satchel:
 
 - HTML / CSS / JS
 - PHP / SQL
@@ -61,7 +61,7 @@ _As long as I dev, to be honest I don't mind the job title. I just want to dev. 
 - Team work
 - Versioning
 
-### Things I learnt during my last apprenticeship :school_satchel:
+### Things I learned during my last apprenticeship :school_satchel:
 
 - Android app development
 - Kotlin
@@ -80,14 +80,13 @@ _As long as I dev, to be honest I don't mind the job title. I just want to dev. 
 
 ### Things I wanna learn someday (or go back to) :heart_eyes:
 
-- Bash
-- ReactJS
+- ReactJS / React Native
+- Flutter
+- Electron.JS
 - p5.js
 - C#
 - Python
-- Electron.JS
-- Flutter
-- React Native
+- Bash
 - Others ?
 
 <br>

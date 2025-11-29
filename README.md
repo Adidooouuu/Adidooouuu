@@ -15,39 +15,33 @@
 	<li>:birthday: Between young and old but around a quarter of century</li>
 	<li>:womens: She/Her</li>
 	<li>:fr: French, living in Rhone-Alpes - France</li>
-	<li>:mortar_board: Looking for a job in design and development of applications</li>
-	<li>:coffee: Co(de|ffee) enjoyer</li>
+	<li>:mortar_board: Developer</li>
+	<li>🧠 Entered the dev world by using P5.js library... without studying HTML/JS etc first -> bad idea but loved it -> here I am now</li>
 </ul>
-
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-connais-pas.gif" width="300" height="300" align="right"/>
 
 ## Interests :cupid:
 
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-connais-pas.gif" width="300" height="300" align = "right"/>
+
 - :books: Reading
-- 🥊 Boxing : English style, kickboxing, (and muay thai someday ?)
-- :computer: IT development
+- 🥊 Boxing : English style, kickboxing (Muay Thai + taekwondo someday ?)
+- 🤞 Soon : parkour
 - :notes: Music
 - :pencil2: Drawing
-- :ru: Russian language (not fluent at all for now ... someday maybe ?)
+- :ru: Russian language (not fluent at all for now...)
+-  :computer: Software/whatever development (Captain Obvious time)
 
-## Dream jobs :briefcase:
-
-<ul>
-	<li>:iphone: Mobile app dev'</li>
-	<li>:globe_with_meridians: Web dev'</li>
-	<li>:computer: Desktop dev'</li>
-	<li>:thought_balloon: Something else ?</li>
-</ul>
-
+<br>
 <br clear="right"/>
-
-_As long as I dev, to be honest I don't mind the job title. I just want to dev. And some coffee._
+<br>
 
 ## About coding ... :woman_technologist:
 
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-jsuis-impressionné.gif" width="300" height="375" align="right"/>
+_As long as I dev, to be honest I don't mind the job title. I just want to dev. And some coffee._
 
-### Things I partly learned during my courses or internships :school_satchel:
+### Basics learnt :school_satchel:
+
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-jsuis-impressionné.gif" width="300" height="375" align="right"/>
 
 - HTML / CSS / JS
 - PHP / SQL
@@ -61,14 +55,20 @@ _As long as I dev, to be honest I don't mind the job title. I just want to dev. 
 - Team work
 - Versioning
 
-### Things I learned during my last apprenticeship :school_satchel:
+<br>
+<br clear="right"/>
+<br>
+
+### Same but during my last apprenticeship :school_satchel:
+
+<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe-pleurer.gif" width="300" height="290" align="right"/>
 
 - Android app development
 - Kotlin
 - Jetpack Compose
 - Material design
 - Room DB
-- Version management tool : GitLab
+- Version management tool: GitLab
 - Functional testing
 - Create and execute an integration tests book
 - Professional team work
@@ -76,26 +76,10 @@ _As long as I dev, to be honest I don't mind the job title. I just want to dev. 
 <br>
 <br clear="right"/>
 <br>
-<img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/etchebest-philippe-pleurer.gif" width="300" height="290" align="right"/>
 
-### Things I wanna learn someday (or go back to) :heart_eyes:
+## Spotlighting some of my consistent drafts 🔦
 
-- ReactJS / React Native
-- Flutter
-- Electron.JS
-- p5.js
-- C#
-- Python
-- Bash
-- Others ?
-
-<br>
-<br clear="right"/>
-<br>
-
-## Projects I'm working on (and techs I think I'll be using)
-
---- incoming ---
+--- To discipline, soon ---
 
 <div id="footer" align="center">
 	<p>See you later~ :sparkles:</p>

@@ -12,10 +12,9 @@
 
 <ul>
 	<li>:woman: Adidou</li>
-	<li>:birthday: Between young and old but around a quarter of century</li>
-	<li>:womens: She/Her</li>
+	<li>:birthday: Asking about my age? Ballsy action.</li>
 	<li>:fr: French, living in Rhone-Alpes - France</li>
-	<li>:mortar_board: Developer</li>
+	<li>:mortar_board: WMS developer</li>
 	<li>🧠 Entered the dev world by using P5.js library... without studying HTML/JS etc first -> bad idea but loved it -> here I am now</li>
 </ul>
 

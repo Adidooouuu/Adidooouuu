@@ -24,7 +24,7 @@
 
 - :books: Reading
 - 🥊 Boxing: English style, kickboxing (Muay Thai + Taekwondo someday ?)
-- 🤞 Soon: parkour
+- 🤞 Soon: Parkour
 - :notes: Music
 - :pencil2: Drawing
 - :ru: Russian language (not fluent at all for now...)

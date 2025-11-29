@@ -23,7 +23,7 @@
 <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-connais-pas.gif" width="300" height="300" align = "right"/>
 
 - :books: Reading
-- 🥊 Boxing: English style, kickboxing (Muay Thai + taekwondo someday ?)
+- 🥊 Boxing: English style, kickboxing (Muay Thai + Taekwondo someday ?)
 - 🤞 Soon: parkour
 - :notes: Music
 - :pencil2: Drawing
@@ -76,7 +76,7 @@ _As long as I dev, to be honest I don't mind the job title. I just want to dev. 
 <br clear="right"/>
 <br>
 
-## Spotlighting some of my consistent drafts 🔦
+## Spotlighting some of my (in)consistent drafts 🔦
 
 --- To discipline, soon ---
 

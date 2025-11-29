@@ -24,8 +24,8 @@
 <img src="https://github.com/Adidooouuu/Adidooouuu/blob/main/img/philippe-etchebest-connais-pas.gif" width="300" height="300" align = "right"/>
 
 - :books: Reading
-- 🥊 Boxing : English style, kickboxing (Muay Thai + taekwondo someday ?)
-- 🤞 Soon : parkour
+- 🥊 Boxing: English style, kickboxing (Muay Thai + taekwondo someday ?)
+- 🤞 Soon: parkour
 - :notes: Music
 - :pencil2: Drawing
 - :ru: Russian language (not fluent at all for now...)
